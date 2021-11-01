@@ -33,8 +33,8 @@ Les logs consignent différentes actions.
 - Les congédiements de membres.
 - Les bannissements de membres.
 - Les débannissements de membres.
-- Les déplacements de membres.
-- Les déconnexions de membres.
+- Les déplacements vocaux de membres.
+- Les déconnexions vocales de membres.
 > Actions associées aux messages
 - La suppression de messages. __Attention :__ Le contenu du message n'est pas consigné dans les logs.
 - La suppression en masse d'un ensemble de messages.
@@ -46,6 +46,9 @@ Les logs consignent différentes actions.
 - Les créations, mises à jour et suppressions de webhooks.
 - Les créations, mises à jour et suppressions d'emojis.
 - Les créations, mises à jour et suppressions d'intégrations.
+- Les créations, mises à jour et suppressions d'autocollants.
+- Les créations, mises à jour et suppressions d'évènements.
+- Les créations, mises à jour et suppressions de conférences.
 
 
 ## Les filtres
